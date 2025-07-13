@@ -33,6 +33,15 @@ Ideal para quem busca **eficiência**, **controle** e **produtividade** em ambie
 
 > Novos aplicativos estão em desenvolvimento — acompanhe nossos repositórios para atualizações!
 
+## 📚 Software de terceiros
+
+O Visualizador Automático PRO utiliza ferramentas de código aberto para oferecer sua funcionalidade. Abaixo, os créditos e licenças correspondentes:
+
+- [scrcpy](https://github.com/Genymobile/scrcpy) — Licença Apache 2.0  
+- [Android Debug Bridge (ADB)](https://developer.android.com/studio/command-line/adb) — Parte do Android SDK, licenciado pela Google
+
+As respectivas licenças permitem o uso comercial com os devidos créditos. Nenhum desses projetos é afiliado oficialmente à Techvia Digital.
+
 ## 📬 Contato
 
 - 📧 E-mail: [techviadigital@gmail.com](mailto:techviadigital@gmail.com)  
@@ -40,24 +49,10 @@ Ideal para quem busca **eficiência**, **controle** e **produtividade** em ambie
 
 ## 📜 Licença
 
-Este repositório é licenciado sob a [inserir licença aqui]. Consulte o arquivo `LICENSE` para mais informações.
+Este software é propriedade da **Techvia Digital**.  
+Sua distribuição, modificação ou uso não autorizado é proibido.  
+Entre em contato para obter uma licença válida.
 
 ---
 
 > Feito com 💡 por **Techvia Digital**
-
-
-<!--
-**TechviaDigital/TechviaDigital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
